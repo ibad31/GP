@@ -11,6 +11,9 @@ header ul li:hover{
 .dropdown-menu .nav-link{
  color: black !important;
 }
+div h5{
+    color: white;
+}
 
 
 .navbar-nav a:hover{
